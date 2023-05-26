@@ -3,20 +3,23 @@ import React from "react";
 const AboutMe = () => {
   return (
     <>
-      <div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+      <div className="max-w-[85rem] px-4 sm:py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
         {/* Grid */}
         <div className="grid md:grid-cols-2 gap-12">
           <div className="lg:w-3/4">
             <h2 className="text-3xl text-primary font-bold lg:text-4xl ">
               Passion, Heart & Soul
             </h2>
-            <p className="mt-3 text-base-content ">
-              We help businesses bring ideas to life in the digital world, by
-              designing and implementing the technology tools that they need to
-              win.
+            <p className="sm:mt-3 mt-2 sm:text-base text-sm text-base-content ">
+              Experienced & Versatile Web Developer Proficient In The End-to-end
+              development Process, From Conceptualizing And Prototyping Designs
+              to Coding And Deployment. Proficient In Front-end technologies,
+              Along With expertise In Back-end Frameworks. dedicated To
+              Delivering Seamless Websites & Web Apps Through Rigorous testing,
+              Optimization, And Efficient Deployment Strategies.
             </p>
             <p className="mt-5 inline-flex items-center gap-x-2 font-medium text-blue-600 ">
-              Contact sales to learn more
+              Contact me
               <svg
                 className="w-2.5 h-2.5 transition ease-in-out group-hover:translate-x-1"
                 width={16}
@@ -33,9 +36,10 @@ const AboutMe = () => {
                 />
               </svg>
             </p>
+            <div></div>
           </div>
           {/* End Col */}
-          <div className="space-y-6 lg:space-y-10">
+          <div className="space-y-6 mb-5 sm:mb-0 lg:space-y-10">
             {/* Icon Block */}
             <div className="flex">
               {/* Icon */}

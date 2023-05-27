@@ -38,10 +38,7 @@ const Hero = () => {
               <button className="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300  font-medium rounded-lg text-lg px-5 py-2.5 text-center mr-2 mb-2">
                 <ScrollIntoView selector="#clients">Show More!</ScrollIntoView>
               </button>
-              <button
-                type="button"
-                className="text-white bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300  font-medium rounded-lg text-lg px-5 py-2.5 text-center mr-2 mb-2"
-              >
+              <button className="text-white bg-gradient-to-r from-lime-200 via-lime-400 to-lime-500 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-lime-300  font-medium rounded-lg text-lg px-5 py-2.5 text-center mr-2 mb-2">
                 <ScrollIntoView selector="#footer">Contact me</ScrollIntoView>
               </button>
             </div>

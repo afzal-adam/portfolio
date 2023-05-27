@@ -8,7 +8,7 @@ import Gallery from "../components/Gallery";
 import { motion, useScroll, useSpring } from "framer-motion";
 
 import "../styles/MotionStyles.css";
-
+import "../styles/index.css";
 const Home = () => {
   const { scrollYProgress } = useScroll();
   const scaleX = useSpring(scrollYProgress, {

@@ -15,7 +15,7 @@ const AboutMe = () => {
         animateOnce={true}
         animateIn="animate__animated animate__fadeIn"
       >
-        <div className="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto transition-all">
+        <div className="max-w-[85rem] px-4 py-0 sm:px-6 lg:px-8 lg:py-14 mx-auto transition-all">
           {/* Grid */}
           <div className="grid md:grid-cols-5 gap-10">
             <div className="md:col-span-2">
@@ -23,13 +23,13 @@ const AboutMe = () => {
                 <h2 className="text-2xl font-bold text-primary md:text-4xl md:leading-tight ">
                   Passion, Heart & Soul
                 </h2>
-                <p className="mt-1 hidden md:block text-base-content ">
+                <p className="mt-1 text-base md:block text-base-content ">
                   Experienced & Versatile Web Developer Proficient In The
                   End-to-end development Process, From Conceptualizing And
-                  Prototyping Designs to Coding And Deployment. Proficient In
+                  Prototyping Designs to Coding And Deployment. Worked In
                   Front-end technologies, Along With expertise In Back-end
-                  Frameworks. dedicated To Delivering Seamless Websites & Web
-                  Apps Through Rigorous testing, Optimization, And Efficient
+                  Frameworks. dedicated To Build Seamless Websites & Web Apps
+                  Through Rigorous testing, Optimization, And Efficient
                   Deployment Strategies.
                 </p>
               </div>
@@ -38,17 +38,6 @@ const AboutMe = () => {
             <div className="md:col-span-3">
               {/* Accordion */}
               <div className="hs-accordion-group divide-y divide-gray-200 ">
-                <Collapsible
-                  isOpen={activeSection === 1}
-                  toggleSection={() => toggleSection(1)}
-                  title="Can I cancel at anytime?"
-                >
-                  <p className="text-base-content">
-                    Yes, you can cancel anytime no questions are asked while you
-                    cancel but we would highly appreciate if you will give us
-                    some feedback.
-                  </p>
-                </Collapsible>
                 <Collapsible
                   isOpen={activeSection === 2}
                   toggleSection={() => toggleSection(2)}

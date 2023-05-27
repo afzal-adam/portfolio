@@ -9,6 +9,10 @@ code {
     font-family: 'Poppins', sans-serif;
 }
 
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
 .css-selector {
     background: linear-gradient(270deg, #181918, #14337e);
     background-size: 400% 400%;

@@ -33,34 +33,16 @@ const Navbar = () => {
             </svg>
           </label>
           <div className="flex md:order-2">
-            <button
+            <a
+              href="https://ik.imagekit.io/z7ylmmfdg/MOHAMMED_ABZAL_AR_gpAdQjyb1.pdf?updatedAt=1685142862899"
+              download="MOHAMMED_ABZAL.pdf"
+              target="_blank"
+              rel="noreferrer"
               type="button"
-              className="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300  shadow-lg shadow-blue-500/50   font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 "
+              className="text-white bg-gradient-to-r from-primary via-primary to-primary hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300  shadow-lg shadow-primary-focus   font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 "
             >
               Get Resume
-            </button>
-            <button
-              data-collapse-toggle="navbar-cta"
-              type="button"
-              className="inline-flex items-center p-2 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 "
-              aria-controls="navbar-cta"
-              aria-expanded="false"
-            >
-              <span className="sr-only">Open main menu</span>
-              <svg
-                className="w-6 h-6"
-                aria-hidden="true"
-                fill="currentColor"
-                viewBox="0 0 20 20"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  fillRule="evenodd"
-                  d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"
-                  clipRule="evenodd"
-                />
-              </svg>
-            </button>
+            </a>
           </div>
         </div>
       </nav>

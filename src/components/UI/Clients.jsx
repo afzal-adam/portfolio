@@ -1,6 +1,7 @@
 import React, { useRef, useState } from "react";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
+import ScrollIntoView from "react-scroll-into-view";
 
 // Import Swiper styles
 import "swiper/css";
@@ -117,7 +118,10 @@ const Clients = () => {
 
   return (
     <>
-      <section className=" flex justify-center items-center flex-col css-selector ">
+      <section
+        id="clients"
+        className=" flex justify-center items-center flex-col bg-zinc-800 bg-[url('https://ik.imagekit.io/z7ylmmfdg/camila-akzo-nMf9L8B-CeY-unsplash_rOI_P4Sl0.jpg?updatedAt=1685144210369')] bg-no-repeat bg-cover "
+      >
         <div className="py-8 lg:py-0 mx-auto w-full max-w-6xl px-4 sm:mb-5">
           <h2 className="mb-8 sm:pt-7 lg:mb-5 text-3xl sm:font-extrabold tracking-tight leading-tight text-center text-white  md:text-4xl">
             Brands I Have Worked With
@@ -129,7 +133,7 @@ const Clients = () => {
                   <>
                     <img
                       src={item}
-                      className="sm:w-28 sm:h-28 sm:min-w-[6rem] sm:min-h-[6rem] w-20  h-20 min-w-[5rem] min-h-[5rem] cursor-pointer"
+                      className="sm:w-28 sm:h-28 sm:min-w-[6rem] sm:min-h-[6rem] w-14  min-w-[3.5rem]   cursor-pointer"
                       alt=""
                     />
                   </>
@@ -187,10 +191,13 @@ const Clients = () => {
             _freeModeNoMomentumRelease={false}
             effect="slide"
           >
-            {techStackArr?.map((item) => {
+            {techStackArr?.map((item, i) => {
               return (
                 <>
-                  <SwiperSlide className="p-5 px-0 sm:px-7 !bg-transparent ">
+                  <SwiperSlide
+                    key={i + 1}
+                    className="p-5 px-0 sm:px-7 !bg-transparent "
+                  >
                     <img
                       className="w-14 h-14 !bg-transparent object-contain select-none  hover:grayscale-0 transition-all cursor-pointer"
                       src={item.url}

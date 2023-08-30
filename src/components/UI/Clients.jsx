@@ -99,21 +99,21 @@ const Clients = () => {
   ];
 
   const clientLogosArr = [
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/MS_LOGO_IU7SWnRzA.svg?updatedAt=1685048730709",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/ATTAR_bS6Zvo8AA.svg?updatedAt=1685048314451",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/ULC_S3Ekju_MxT.svg?updatedAt=1685048310101",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/BRAIN_STUDS_4b0A5_yO2.svg?updatedAt=1685048310030",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/ELECTRIC_MOTORS_BeAw-m-dr.svg?updatedAt=1685048309498",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/IKHLAS_3ak_KJMXQ.svg?updatedAt=1685048313428",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/NAUFAL_B5u6m0NTH.svg?updatedAt=1685048309497",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/GOLDEN_ORBIT_-pRfO5iKBT.svg?updatedAt=1685048310261",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/HARKWILLIA_GU_WqqOYNh.svg?updatedAt=1685048309925",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/KS_vRY4sLebC.svg?updatedAt=1685048316078",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/SK_s_WN4fujis.svg?updatedAt=1685048310176",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/VERTICA_PjSk6PR6-.svg?updatedAt=1685048310195",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/SAMBRAM_mrXnyfvbv.svg?updatedAt=1685048317593",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/BM_4DF8tYAQ7.svg?updatedAt=1685048309644",
-    "https://ik.imagekit.io/z7ylmmfdg/CLIENT_LOGOS/CLANZO_CAsHencdO.svg?updatedAt=1685048309974",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204936.png?updatedAt=1693317736428",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%201000003215.png?updatedAt=1693317740019",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204176.png?updatedAt=1693317731458",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204174.png?updatedAt=1693317732114",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204179.png?updatedAt=1693317740296",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204233.png?updatedAt=1693317735145",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204172.png?updatedAt=1693317729016",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204173.png?updatedAt=1693317733116",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%201000003361.png?updatedAt=1693317736184",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204181.png?updatedAt=1693317740377",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204177.png?updatedAt=1693317734803",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204171.png?updatedAt=1693317734982",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204182.png?updatedAt=1693317740090",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/image%20203.png?updatedAt=1693317732316",
+    "https://ik.imagekit.io/o0jwga39e/portfolio/Group%204175.png?updatedAt=1693317730104",
   ];
 
   return (

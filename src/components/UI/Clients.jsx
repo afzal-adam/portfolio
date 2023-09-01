@@ -18,83 +18,87 @@ const Clients = () => {
   const techStackArr = [
     {
       title: "HTML",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_101_OtXlYpUUe.svg?updatedAt=1684695813353",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/html5-original.svg?updatedAt=1693492485739",
     },
     {
       title: "CSS",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_104_bYfmqhkCyH.svg?updatedAt=1684695813459",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/css3-original.svg?updatedAt=1693492485173",
     },
     {
       title: "ReactJs",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_111_myMDbZogY.svg?updatedAt=1684695816897",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/react-original.svg?updatedAt=1693492490267",
     },
     {
       title: "TailwindCss",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_118_nTABrwGUB.svg?updatedAt=1684695818224",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/tailwindcss-plain.svg?updatedAt=1693492490595",
     },
     {
       title: "Redux",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_120_qDaGKDspR_.svg?updatedAt=1684695817329",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/redux-original.svg?updatedAt=1693492489993",
     },
     {
       title: "SCSS",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_107_NP-0bSIBmT.svg?updatedAt=1684695813523",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/sass-original.svg?updatedAt=1693492490275",
     },
     {
       title: "GITHUB",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_115_MZ2Vt3XHTS.svg?updatedAt=1684695816945",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/icons8-github.svg?updatedAt=1693546118559",
     },
     {
       title: "NodeJs",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_106_ELvDrCenY.svg?updatedAt=1684695813455",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/nodejs-plain-wordmark.svg?updatedAt=1693492489890",
     },
     {
       title: "Javascript",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_110_rnPXoXCR08.svg?updatedAt=1684695813421",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/javascript-plain.svg?updatedAt=1693492485782",
     },
     {
       title: "MongoDB",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_114_NLUYZniN9.svg?updatedAt=1684695816860",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/mongodb-plain-wordmark.svg?updatedAt=1693492489938",
     },
     {
       title: "Digital Ocean",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_119_MJgNLvIoU.svg?updatedAt=1684695818253",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/digitalocean-original.svg?updatedAt=1693492485501",
     },
     {
       title: "Ubuntu",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_117_1bng0YW00r.svg?updatedAt=1684695816924",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/ubuntu-plain-wordmark.svg?updatedAt=1693492490618",
     },
     {
       title: "npm",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_105_6rux2FZ-cG.svg?updatedAt=1684695813371",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/npm-original-wordmark.svg?updatedAt=1693492489901",
     },
     {
       title: "Analytics",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_112_dCwRT2T6O.svg?updatedAt=1684695816885",
+      url: "https://static-00.iconduck.com/assets.00/google-cloud-platform-icon-1024x823-mrdn81d1.png",
     },
     {
       title: "Figma",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_103__JaVPckv3.svg?updatedAt=1684695813424",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/figma-original.svg?updatedAt=1693492485085",
     },
     {
       title: "Adobe Illustrator",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_109_vaVhUhUyPR.svg?updatedAt=1684695813413",
+      url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png",
     },
     {
       title: "Vite",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_113_zTLyPzJRGc.svg?updatedAt=1684695817184",
+      url: "https://vitejs.dev/logo-with-shadow.png",
     },
     {
       title: "Figma",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_103__JaVPckv3.svg?updatedAt=1684695813424",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/figma-original.svg?updatedAt=1693492485085",
     },
     {
       title: "Netlify",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_102_sQnBHmLrRX.svg?updatedAt=1684695813451",
+      url: "https://levelup-styleguide.netlify.app/v3/img/components/full-logo-dark-simple.png",
     },
     {
       title: "Redux",
-      url: "https://ik.imagekit.io/z7ylmmfdg/techStack_Icons/Group_116_X7toN9Fc8D.svg?updatedAt=1684695817837",
+      url: "https://ik.imagekit.io/o0jwga39e/portfolio/language/Logos/redux-original.svg?updatedAt=1693492489993",
+    },
+    {
+      title: "AWS S3",
+      url: "https://cdn-blog.lawrencemcdaniel.com/wp-content/uploads/2021/01/30083957/aws-s3-logo.png",
     },
   ];
 
@@ -133,7 +137,7 @@ const Clients = () => {
                   <>
                     <img
                       src={item}
-                      className="sm:w-28 sm:h-28 sm:min-w-[6rem] sm:min-h-[6rem] w-14  min-w-[3.5rem]   cursor-pointer"
+                      className="sm:w-28 object-contain sm:h-28 sm:min-w-[6rem] sm:min-h-[6rem] w-14  min-w-[3.5rem]   cursor-pointer"
                       alt=""
                     />
                   </>
@@ -199,7 +203,7 @@ const Clients = () => {
                     className="p-5 px-0 sm:px-7 !bg-transparent "
                   >
                     <img
-                      className="w-14 h-14 !bg-transparent object-contain select-none  hover:grayscale-0 transition-all cursor-pointer"
+                      className="w-14 h-14  !bg-transparent object-contain select-none  hover:grayscale-0 transition-all cursor-pointer"
                       src={item.url}
                       alt=""
                     />

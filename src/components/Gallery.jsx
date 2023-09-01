@@ -26,21 +26,21 @@ const Gallery = () => {
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="https://ik.imagekit.io/z7ylmmfdg/Group_1000003228_oqZnRU-NG.png?updatedAt=1685222428850"
+                src="https://ik.imagekit.io/o0jwga39e/portfolio/techzone.png?updatedAt=1693548979752"
                 alt=""
               />
             </div>
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="https://ik.imagekit.io/z7ylmmfdg/Group_1000003223_06oe0cyaW.png?updatedAt=1685222409610"
+                src="https://ik.imagekit.io/o0jwga39e/portfolio/dietProtien.png?updatedAt=1693548997628"
                 alt=""
               />
             </div>
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="https://ik.imagekit.io/z7ylmmfdg/Group_1000003235_U-Ohv2gbO.png?updatedAt=1685222409754"
+                src="https://ik.imagekit.io/o0jwga39e/portfolio/township.png?updatedAt=1693548996062"
                 alt=""
               />
             </div>
@@ -49,14 +49,14 @@ const Gallery = () => {
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="https://ik.imagekit.io/z7ylmmfdg/Group_1000003236_oEXNnKink.png?updatedAt=1685222377136"
+                src="https://ik.imagekit.io/o0jwga39e/portfolio/ulc.png?updatedAt=1693548972741"
                 alt=""
               />
             </div>
             <div>
               <video autoPlay muted loop playsInline>
                 <source
-                  src="https://ik.imagekit.io/z7ylmmfdg/4b68e981-dfa4-4bc4-913f-a1523a1675c5_xEvqOKrqT.mp4?updatedAt=1685224474862"
+                  src="https://ik.imagekit.io/o0jwga39e/portfolio/clanzo.mp4?updatedAt=1693549385255"
                   type="video/mp4"
                 />
                 Your browser does not support the video tag.
@@ -65,7 +65,7 @@ const Gallery = () => {
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="https://ik.imagekit.io/z7ylmmfdg/Group_1000003222_QDUcbtwn8.png?updatedAt=1685222412829"
+                src="https://ik.imagekit.io/o0jwga39e/portfolio/clanzo.png?updatedAt=1693548948674"
                 alt=""
               />
             </div>
@@ -74,14 +74,14 @@ const Gallery = () => {
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="https://ik.imagekit.io/z7ylmmfdg/Group_1000003219_jZPFmUhJa.png?updatedAt=1685222418988"
+                src="https://ik.imagekit.io/o0jwga39e/portfolio/foodTradeLinks.png?updatedAt=1693549003981"
                 alt=""
               />
             </div>
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="https://ik.imagekit.io/z7ylmmfdg/Group_1000003233_6NSS1fC_F.png?updatedAt=1685222408287"
+                src="https://ik.imagekit.io/o0jwga39e/portfolio/verticaBrochure.png?updatedAt=1693548996451"
                 alt=""
               />
             </div>
@@ -97,7 +97,7 @@ const Gallery = () => {
             <div>
               <img
                 className="h-auto max-w-full rounded-lg"
-                src="https://ik.imagekit.io/z7ylmmfdg/Group_1000003220_ahgNhDLc5.png?updatedAt=1685222376465"
+                src="https://ik.imagekit.io/o0jwga39e/portfolio/grandLenseForm.png?updatedAt=1693548978972"
                 alt=""
               />
             </div>

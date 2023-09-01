@@ -1,54 +1,55 @@
 body {
-    margin: 0;
-    font-family: 'Poppins', sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* border: 2px solid red; */
 }
 
 code {
-    font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .css-selector {
-    background: linear-gradient(270deg, #181918, #14337e);
-    background-size: 400% 400%;
-    -webkit-animation: AnimationName 9s ease infinite;
-    -moz-animation: AnimationName 9s ease infinite;
-    animation: AnimationName 9s ease infinite;
+  background: linear-gradient(270deg, #181918, #14337e);
+  background-size: 400% 400%;
+  -webkit-animation: AnimationName 9s ease infinite;
+  -moz-animation: AnimationName 9s ease infinite;
+  animation: AnimationName 9s ease infinite;
 }
 
 @-webkit-keyframes AnimationName {
-    0% {
-        background-position: 0% 53%
-    }
-    50% {
-        background-position: 100% 48%
-    }
-    100% {
-        background-position: 0% 53%
-    }
+  0% {
+    background-position: 0% 53%;
+  }
+  50% {
+    background-position: 100% 48%;
+  }
+  100% {
+    background-position: 0% 53%;
+  }
 }
 
 @-moz-keyframes AnimationName {
-    0% {
-        background-position: 0% 53%
-    }
-    50% {
-        background-position: 100% 48%
-    }
-    100% {
-        background-position: 0% 53%
-    }
+  0% {
+    background-position: 0% 53%;
+  }
+  50% {
+    background-position: 100% 48%;
+  }
+  100% {
+    background-position: 0% 53%;
+  }
 }
 
 @keyframes AnimationName {
-    0% {
-        background-position: 0% 53%
-    }
-    50% {
-        background-position: 100% 48%
-    }
-    100% {
-        background-position: 0% 53%
-    }
+  0% {
+    background-position: 0% 53%;
+  }
+  50% {
+    background-position: 100% 48%;
+  }
+  100% {
+    background-position: 0% 53%;
+  }
 }

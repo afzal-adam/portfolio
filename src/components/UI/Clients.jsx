@@ -100,6 +100,10 @@ const Clients = () => {
       title: "AWS S3",
       url: "https://cdn-blog.lawrencemcdaniel.com/wp-content/uploads/2021/01/30083957/aws-s3-logo.png",
     },
+    {
+      title: "NextJs",
+      url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png",
+    },
   ];
 
   const clientLogosArr = [
